@@ -1,6 +1,6 @@
 # Go Implementation of [WireGuard](https://www.wireguard.com/) for WireGuardHSM
 
-This is an implementation of WireGuard in Go that will be used as a Backend for WireGuardHSM-android.
+This is an implementation of WireGuard in Go that will be used as a Backend for HWWireGuard-android.
 
 ----------------------------------------------------------------------------------------------------
 
